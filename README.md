@@ -1,0 +1,1 @@
+Android application that streamlines the process of generating random gift ideas for users according to person and occasion respectively. Utilized XML, Kotin and Android Studio for the development and ROOM Database for storing the data.
